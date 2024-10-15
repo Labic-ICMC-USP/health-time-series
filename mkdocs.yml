@@ -14,6 +14,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+    - navigation.sections
 # extra_javascript:
 #   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
 #   - https://raw.githubusercontent.com/tristen/tablesort/refs/heads/master/src/sorts/tablesort.number.js
