@@ -1,0 +1,22 @@
+site_name: LABIC Health Time Series Repository
+site_url: http://labic-icmc-usp.github.io/health-time-series
+theme:
+  name: material
+  icon:
+    logo: activity
+  favicon: assets/favicon.svg
+  palette: 
+    scheme: default
+    primary: deep orange
+    accent: indigo
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+# extra_javascript:
+#   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+#   - https://raw.githubusercontent.com/tristen/tablesort/refs/heads/master/src/sorts/tablesort.number.js
+#   - javascripts/tablesort.js
+extra_css:
+  - stylesheets/extra.css
