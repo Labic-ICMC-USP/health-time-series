@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/getting_started/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/datasets/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/datasets/European-STT/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/datasets/PPG-Dalia/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/datasets/PPG-Guilin/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+    <url>
+         <loc>http://labic-icmc-usp.github.io/health-time-series/datasets/PTB-XL/</loc>
+         <lastmod>2024-10-21</lastmod>
+    </url>
+</urlset>
